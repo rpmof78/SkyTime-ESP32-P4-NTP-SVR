@@ -80,6 +80,8 @@ Author
 ------
 RPMof78
 
+Link to Amazon Parts list: https://www.amazon.com/hz/wishlist/ls/2ZEWX0J5EYLJ1?ref_=wl_share
+
 ========================================================
 End of File
 ========================================================
